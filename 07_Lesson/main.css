@@ -1,0 +1,26 @@
+html {
+    font-size: 22px;
+}
+
+html {
+    background-color: black;
+    color: whitesmoke;
+}
+
+a {
+    color: yellowgreen;
+}
+
+a:visited {
+    color: pink;
+}
+
+a:hover {
+    color: orange;
+}
+table, tr, th, td, caption {
+    border: 1px solid white;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
